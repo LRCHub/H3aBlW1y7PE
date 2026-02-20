@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "玩具 SINKA LIVE SERIES ver.",
+  "base_artist": "V.W.P",
+  "createdAt": "2026-02-20T14:35:09.336751Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "玩具",
+      "artist": "Faye Wong",
+      "has_synced": true,
+      "path": "select/01_玩具_Faye_Wong.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "玩具",
+      "artist": "Wong, Faye",
+      "has_synced": true,
+      "path": "select/02_玩具_Wong,_Faye.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "玩具",
+      "artist": "V.W.P",
+      "has_synced": true,
+      "path": "select/03_玩具_V.W.P.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "玩具",
+      "artist": "顺子",
+      "has_synced": true,
+      "path": "select/04_玩具_顺子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "玩具",
+      "artist": "Angela Chang",
+      "has_synced": false,
+      "path": "select/05_玩具_Angela_Chang.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "玩具 (Toy)",
+      "artist": "たかやん",
+      "has_synced": true,
+      "path": "select/06_玩具_(Toy)_たかやん.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "04.深夜の巡回お泊まりデート(コスプレ_玩具_乳首責め_クリ責め)",
+      "artist": "あいちゅうーぶ!",
+      "has_synced": true,
+      "path": "select/07_04.深夜の巡回お泊まりデート(コスプレ_玩具_乳首責め_クリ責め)_あいちゅうーぶ!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "玩具",
+      "artist": "V.W.P, 花譜, 理芽, ヰ世界情緒, 春猿火, 幸祜",
+      "has_synced": false,
+      "path": "select/pl_01_玩具_V.W.P,_花譜,_理芽,_ヰ世界情緒,_春猿火,_幸祜.txt"
+    }
+  ]
+}
